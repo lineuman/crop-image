@@ -3,4 +3,4 @@
 just open the index.html in your browser
 
 
-![Uploading img.html.png…]()
+![preview](img.html.png)
